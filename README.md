@@ -1,6 +1,9 @@
 **Hi**
+
 I'm **Ali Moghaddam Taaheri**.
+
 I'm a Computer Engineering student at **Urmia University of Technology**.
+
 My main interests are in **hardware design**, **FPGA systems**, **computer architecture** and **programming** .  
 
 I enjoy studying and building efficient digital systems and exploring how hardware and software connect at the logic level.  
