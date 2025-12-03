@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Alimt36/Alimt36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ali Moghaddam Taaheri**, a Computer Engineering student at **Urmia University of Technology**.  
+My main interests are in **hardware design**, **FPGA systems**, and **computer architecture**.  
 
-Here are some ideas to get you started:
+I enjoy building efficient digital systems and exploring how hardware and software connect at the logic level.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Focus Areas
+- FPGA and digital system design  
+- CPU and hardware architecture  
+- Embedded and low-level programming  
+
+---
+
+### 🧠 Current Work
+- Assisting in the development of a new **FPGA Hardware Lab** at my university  
+- Designing hands-on experiments and educational modules using **Spartan-3 boards**  
+
+---
+
+### 📫 Contact
+**Email:** amtaaheri@gmail.com  
+**GitHub:** [github.com/Alimt36](https://github.com/Alimt36)  
+**LinkedIn:** [linkedin.com/in/ali-moghaddam-taaheri-55b831333](https://www.linkedin.com/in/ali-moghaddam-taaheri-55b831333)  
+
+---
+
+> “Precision in thought. Clarity in design.”  
