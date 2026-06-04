@@ -5,5 +5,5 @@ a hardware enthusiast , studying digital systems and cpu architectures ,
 
 currently working on : accelerated image processing ,
                                                                                                                                                                         
-Telegram: [Alimt36](t.me/Alimt36)                     
+Telegram: [Alimt36](https://t.me/Alimt36)                     
 Email: [amtaaheri@gmail.com](mailto:amtaaheri@gmail.com)  
